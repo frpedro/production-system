@@ -1,8 +1,0 @@
-spring.datasource.url=jdbc:YOUR_DATABASE_URL
-spring.datasource.username=YOUR_USERNAME
-spring.datasource.password=YOUR_PASSWORD
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
-
-server.port=8080
