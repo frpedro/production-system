@@ -2,7 +2,7 @@ services:
   - type: web
     name: production-system-api
     runtime: docker
-    dockerfilePath: backend/Dockerfile
+    rootDir: backend
     envVars:
       - key: SPRING_DATASOURCE_URL
         sync: false
