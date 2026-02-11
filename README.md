@@ -108,13 +108,15 @@ GET    /api/production/suggestions
 ## 📸 Screenshots
 
 ### Tela de Matérias-Primas
-> Screenshot em breve
+> <img width="1920" height="941" alt="Sistema-de-Produção-02-10-2026_09_15_PM" src="https://github.com/user-attachments/assets/02233f3a-4ac3-452f-9e88-37de2a44e618" />
+
 
 ### Tela de Produtos
-> Screenshot em breve
+><img width="1920" height="941" alt="Sistema-de-Produção-02-10-2026_09_15_PM (1)" src="https://github.com/user-attachments/assets/b6a488a8-37a9-4eab-949e-4d67c5401e69" />
 
 ### Tela de Sugestão de Produção
-> Screenshot em breve
+> <img width="1920" height="941" alt="Sistema-de-Produção-02-10-2026_09_15_PM (2)" src="https://github.com/user-attachments/assets/423d012a-2c57-4768-a57d-8fcf9e1a661e" />
+
 
 ## 🚀 Como Testar
 
