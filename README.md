@@ -1,6 +1,6 @@
 # 💎 Production System
 
-> Sistema completo de gerenciamento de estoque e otimização de produção desenvolvido como teste técnico para Projedata.
+> Sistema completo de gerenciamento de estoque e otimização de produção.
 
 
 ## 🔗 Acesso
@@ -151,4 +151,4 @@ GET    /api/production/suggestions
 
 ---
 
-💎 Desenvolvido para **Projedata**.
+💎 Desenvolvido por *Pedro Fernandes*.
